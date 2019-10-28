@@ -12,11 +12,6 @@
             <identifier>new com.redhat.batigerteam.monitoring.CustomProcessEventListener()</identifier>
             <parameters/>
         </event-listener>
-        <event-listener>
-            <resolver>mvel</resolver>
-            <identifier></identifier>
-            <parameters/>
-        </event-listener>
     </event-listeners>
     <task-event-listeners>
         <task-event-listener>
